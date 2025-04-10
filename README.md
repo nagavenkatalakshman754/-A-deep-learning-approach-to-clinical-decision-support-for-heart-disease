@@ -1,0 +1,2 @@
+# -A-deep-learning-approach-to-clinical-decision-support-for-heart-disease
+This study aims to develop a clinical decision support system (CDSS) that leverages deep learning algorithms to predict the likelihood of heart disease in patients. By analyzing various clinical and demographic data, the system seeks to assist healthcare professionals in making informed decisions regarding diagnosis and treatment.
