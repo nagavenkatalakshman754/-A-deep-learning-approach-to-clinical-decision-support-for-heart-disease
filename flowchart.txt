@@ -1,0 +1,121 @@
+1. Importing the packages
+2. Exploring the dataset 
+Heart Disease Data 
+Cleveland
+Hungarian
+Switzerland
+Long Beach VA
+3. Data processing
+	- pandas dataframe
+	- Keras Dataframe
+	- Dropping unwanted column
+4. Visualization using seaborn & matplotlib
+5. Label Encoding using LabelEncoder
+6. Feature Selection 
+7. Splitting the data to train and test for Deep LEarning and Taking X and Y for Machine Learning
+8. Building the model
+    Cleveland 
+        KNN
+        LinearSVC
+        Gaussian Process
+        Decision Tree
+        Naive Bayes
+        QDA
+        AdaBoost
+        Bagging
+        Boosting
+        Stacking Classifier(RF + MLP with LightGBM)
+        Voting Classifier (DT + RF)
+        DNN
+            3 hidden layers
+            4 hidden layers
+            5 hidden layers
+            6 hidden layers
+            7 hidden layers
+            8 hidden layers
+            9 hidden layers
+    Hungarian
+        KNN
+        LinearSVC
+        Gaussian Process
+        Decision Tree
+        Naive Bayes
+        QDA
+        AdaBoost
+        Bagging
+        Boosting
+        Stacking Classifier(RF + MLP with LightGBM)
+        Voting Classifier (DT + RF)
+        DNN
+            3 hidden layers
+            4 hidden layers
+            5 hidden layers
+            6 hidden layers
+            7 hidden layers
+            8 hidden layers
+            9 hidden layers
+    Switzerland
+        KNN
+        LinearSVC
+        Gaussian Process
+        Decision Tree
+        Naive Bayes
+        QDA
+        AdaBoost
+        Bagging
+        Boosting
+        Stacking Classifier(RF + MLP with LightGBM)
+        Voting Classifier (DT + RF)
+        DNN
+            3 hidden layers
+            4 hidden layers
+            5 hidden layers
+            6 hidden layers
+            7 hidden layers
+            8 hidden layers
+            9 hidden layers
+    Long Beach VA
+        KNN
+        LinearSVC
+        Gaussian Process
+        Decision Tree
+        Naive Bayes
+        QDA
+        AdaBoost
+        Bagging
+        Boosting
+        Stacking Classifier(RF + MLP with LightGBM)
+        Voting Classifier (DT + RF)
+        DNN
+            3 hidden layers
+            4 hidden layers
+            5 hidden layers
+            6 hidden layers
+            7 hidden layers
+            8 hidden layers
+            9 hidden layers
+            
+9. Training and Building the model
+
+Flask Framework
+---------------- 
+10. Flask Framework with Sqlite for signup and signin
+11. Importing the packages
+12. User gives input as Feature Values 
+13. The given input is preprocessed for prediction
+14. Trained model is used for prediction
+15. Final outcome is displayed through frontend
+
+
+
+Dataset 
+----------
+https://archive.ics.uci.edu/dataset/45/heart+disease 
+
+Extension
+----------
+
+In the base paper the author mentioned to use different heart dataset with different Machine Learning model and Deep Neural Network with different number of hidden layers, from which DNN got 83% of accuracy,
+As an extension we applied an ensemble method  combining the predictions of multiple individual models to produce a more robust and accurate final prediction.
+However, we can further enhance the performance by exploring other ensemble techniques such as Voting Classifier and Stacking Classifier got 93% of accuracy  or above,
+As an extension we can build the front end using the flask framework for user testing and with user authentication.
